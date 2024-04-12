@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3757619044
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58d4b3fab869143a8a7fe702cabf9bcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/gfx/map/fallen_empire_border_edge.png
+- Assets/Assets/gfx/map/galaxycolor.png
+- Assets/Assets/gfx/map/hexgrid.png
+- Assets/Assets/gfx/map/nebula.png
+- Assets/Assets/gfx/map/conflicted_border_fill.png
+- Assets/Assets/gfx/map/edge.png
+- Assets/Assets/gfx/map/trail.png
+- Assets/Assets/gfx/map/sky_rim.png
+- Assets/Assets/gfx/map/trail_2.png
+- Assets/Assets/gfx/map/center.png
+- Assets/Assets/gfx/map/conflicted_border_edge.png
+- Assets/Assets/gfx/map/sky_core.png
+- Assets/Assets/gfx/map/sky_mid.png
+- Assets/Assets/gfx/map/dust.png
+- Assets/Assets/gfx/map/nebulacolor.png
+- Assets/Assets/gfx/map/fallen_empire_border_fill.png
+- Assets/Assets/gfx/map/trail_missile.png
+- Assets/Assets/gfx/map/sky_ycocg.png
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 790673357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a8550411bb9bbcd9bec7077965495eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f8a3501b0d0403b3f95854eb6ba7a08
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/material/sprite-add.mat
+- Assets/Assets/material/star-skybox.mat
+Dependencies:
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_share_assets_assets_gfx_worldgfx.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_unityshaders.bundle

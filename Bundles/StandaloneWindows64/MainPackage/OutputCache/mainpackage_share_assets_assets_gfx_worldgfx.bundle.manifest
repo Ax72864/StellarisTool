@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2343420720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a14123e3185460fb335902ff1019f25
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 444966610bc7fd885616cae26ad18309
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/gfx/worldgfx/stars.png
+Dependencies: []

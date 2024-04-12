@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 454624357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1124533de87b1dc804d2da8fbbd92e6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/gfx/map/star_classes/black_hole.png
+- Assets/Assets/gfx/map/star_classes/sc_m_giant.png
+- Assets/Assets/gfx/map/star_classes/neutron_star.png
+- Assets/Assets/gfx/map/star_classes/k_star.png
+- Assets/Assets/gfx/map/star_classes/rift_star.png
+- Assets/Assets/gfx/map/star_classes/a_trinary_star.png
+- Assets/Assets/gfx/map/star_classes/d_binary_star.png
+- Assets/Assets/gfx/map/star_classes/a_star.png
+- Assets/Assets/gfx/map/star_classes/f_star.png
+- Assets/Assets/gfx/map/star_classes/t_star.png
+- Assets/Assets/gfx/map/star_classes/b_binary_star.png
+- Assets/Assets/gfx/map/star_classes/b_star.png
+- Assets/Assets/gfx/map/star_classes/pirate.png
+- Assets/Assets/gfx/map/star_classes/x_star.png
+- Assets/Assets/gfx/map/star_classes/e_binary_star.png
+- Assets/Assets/gfx/map/star_classes/g_star.png
+- Assets/Assets/gfx/map/star_classes/c_binary_star.png
+- Assets/Assets/gfx/map/star_classes/a_binary_star.png
+- Assets/Assets/gfx/map/star_classes/pulsar.png
+- Assets/Assets/gfx/map/star_classes/m_star.png
+Dependencies: []

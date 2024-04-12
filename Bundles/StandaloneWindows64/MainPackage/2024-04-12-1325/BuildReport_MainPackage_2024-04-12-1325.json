@@ -1,0 +1,1456 @@
+{
+    "Summary": {
+        "YooVersion": "1.5.7",
+        "UnityVersion": "2021.3.32f1c1",
+        "BuildDate": "2024/4/12 22:05:52",
+        "BuildSeconds": 12,
+        "BuildTarget": 19,
+        "BuildPipeline": 0,
+        "BuildMode": 0,
+        "BuildPackageName": "MainPackage",
+        "BuildPackageVersion": "2024-04-12-1325",
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "UniqueBundleName": true,
+        "SharedPackRuleClassName": "YooAsset.Editor.ZeroRedundancySharedPackRule",
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 160,
+        "MainAssetTotalCount": 80,
+        "AllBundleTotalCount": 17,
+        "AllBundleTotalSize": 36784459,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 0,
+        "RawBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "scene_main",
+            "AssetPath": "Assets/Scenes/main.unity",
+            "AssetGUID": "7998109a81201664ab960823eb2d7fcc",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_scenes_main.bundle",
+            "MainBundleSize": 880792,
+            "DependBundles": [
+                "mainpackage_share_assets_assets_gfx_worldgfx.bundle",
+                "mainpackage_share_assets_assets_material.bundle",
+                "mainpackage_share_assets_assets.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Plugins/Reporter/Images/scroller_horizental_thumb.png",
+                "Assets/Plugins/Reporter/Images/scroller_vertical_thumb.png",
+                "Assets/Plugins/Reporter/Images/collapse.png",
+                "Assets/Assets/gfx/worldgfx/stars.png",
+                "Assets/Plugins/Reporter/Images/log_icon.png",
+                "Assets/Plugins/Reporter/Images/scroller_horizental_back.png",
+                "Assets/Plugins/Reporter/Images/date.png",
+                "Assets/Plugins/Reporter/Images/error_icon.png",
+                "Assets/Plugins/Reporter/Images/reporterScrollerSkin.guiskin",
+                "Assets/Plugins/Reporter/Images/software.png",
+                "Assets/Plugins/Reporter/Images/fps.png",
+                "Assets/Assets/gfx/interface/progressbars/progressbar_933.png",
+                "Assets/Plugins/Reporter/Images/even_log.png",
+                "Assets/Plugins/Reporter/Images/clear.png",
+                "Assets/Plugins/Reporter/Images/scroller_down_arraw.png",
+                "Assets/Plugins/Reporter/Images/scroller_right_arraw.png",
+                "Assets/Plugins/Reporter/Images/memory.png",
+                "Assets/Plugins/Reporter/Images/search.png",
+                "Assets/Assets/gfx/interface/progressbars/progressbar_933_empty.png",
+                "Assets/Plugins/Reporter/Images/timer_1.png",
+                "Assets/Plugins/Reporter/Images/selected.png",
+                "Assets/Plugins/Reporter/Images/back.png",
+                "Assets/Plugins/Reporter/Images/button_active.png",
+                "Assets/Assets/material/star-skybox.mat",
+                "Assets/Plugins/Reporter/Images/bar.png",
+                "Assets/Resources/stellaris_into_the_unknown_3840x2160.jpg",
+                "Assets/Plugins/Reporter/Images/buildFrom.png",
+                "Assets/Plugins/Reporter/Images/scroller_left_arraw.png",
+                "Assets/Plugins/Reporter/Images/clearOnSceneLoaded.png",
+                "Assets/Assets/gfx/interface/buttons/button_110_animated.png",
+                "Assets/Plugins/Reporter/Images/scroller_vertical_back.png",
+                "Assets/Plugins/Reporter/Images/chart.png",
+                "Assets/Assets/FZLTZHJW.TTF",
+                "Assets/Plugins/Reporter/Images/info.png",
+                "Assets/Plugins/Reporter/Images/graphicCard.png",
+                "Assets/Plugins/Reporter/Images/ComputerIcon.png",
+                "Assets/Plugins/Reporter/Images/odd_log.png",
+                "Assets/Plugins/Reporter/Images/UnityIcon.png",
+                "Assets/Plugins/Reporter/Images/scroller_up_arraw.png",
+                "Assets/Plugins/Reporter/Images/warning_icon.png",
+                "Assets/Plugins/Reporter/Images/user.png",
+                "Assets/Plugins/Reporter/Images/close.png"
+            ]
+        },
+        {
+            "Address": "scene_map",
+            "AssetPath": "Assets/Scenes/map.unity",
+            "AssetGUID": "b656e248be5849b4b8c13eecc7d4fd8a",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_scenes_map.bundle",
+            "MainBundleSize": 9335281,
+            "DependBundles": [
+                "mainpackage_share_assets_assets_material.bundle",
+                "mainpackage_assets_assets_gfx_interface_icons.bundle",
+                "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+                "mainpackage_assets_assets_prefabs.bundle",
+                "mainpackage_unityshaders.bundle",
+                "mainpackage_share_assets_assets_gfx_worldgfx.bundle",
+                "mainpackage_share_assets_assets_gfx_particles.bundle",
+                "mainpackage_share_assets_assets_animator.bundle",
+                "mainpackage_share_assets_assets_gfx_interface_main.bundle",
+                "mainpackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "mainpackage_share_assets_assets.bundle",
+                "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+                "mainpackage_assets_assets_gfx_map.bundle",
+                "mainpackage_share_assets_assets_gfx_interface_buttons.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Assets/material/sprite-add.mat",
+                "Assets/Assets/gfx/interface/sliders/ncp_scroll_slider.png",
+                "Assets/Assets/gfx/interface/icons/hostile_intel_icon.png",
+                "Assets/Assets/gfx/map/star_classes/m_star.png",
+                "Assets/Assets/prefabs/target_circle.prefab",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Assets/animator/right_panel_in.anim",
+                "Assets/Assets/gfx/interface/sliders/horizontal_slider.png",
+                "Assets/Assets/animator/right_panel.controller",
+                "Assets/Assets/prefabs/target_arrow.prefab",
+                "Assets/Assets/gfx/worldgfx/stars.png",
+                "Assets/Assets/gfx/particles/target_arrows.png",
+                "Assets/Assets/animator/target_circle.controller",
+                "Assets/Assets/gfx/interface/main/settings_bar.png",
+                "Assets/Assets/test/cloud.mat",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Assets/test/clouds_medium_diffuse.png",
+                "Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png",
+                "Assets/Assets/FZLTZHJW SDF.asset",
+                "Assets/Assets/test/alpine_03_specular.png",
+                "Assets/Assets/animator/target_arrow_in.anim",
+                "Assets/Assets/test/UIAdditive.shader",
+                "Assets/Assets/gfx/interface/main/main_screen_bg.png",
+                "Assets/Assets/prefabs/StarInfoView.prefab",
+                "Assets/Assets/test/clouds_medium_normal.png",
+                "Assets/Assets/test/alpine_03_diffuse.png",
+                "Assets/Assets/animator/target_circle_rotate.anim",
+                "Assets/Assets/gfx/map/star_classes/pulsar.png",
+                "Assets/Assets/material/hyperlane.mat",
+                "Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation_ruined.png",
+                "Assets/Assets/gfx/map/galaxycolor.png",
+                "Assets/Assets/test/planet.mat",
+                "Assets/Assets/material/star-skybox.mat",
+                "Assets/Assets/gfx/map/trail.png",
+                "Assets/Assets/animator/target_circle_in.anim",
+                "Assets/Assets/prefabs/StarObj.prefab",
+                "Assets/Assets/gfx/map/star_classes/a_trinary_star.png",
+                "Assets/Assets/animator/target_arrow.controller",
+                "Assets/Assets/animator/right_panel_out.anim",
+                "Assets/Assets/gfx/interface/sliders/ncp_scroll_slider_horizontal.png",
+                "Assets/Assets/gfx/map/center.png",
+                "Assets/Assets/gfx/particles/debuff_halo.png",
+                "Assets/Assets/FZLTZHJW.TTF",
+                "Assets/Assets/gfx/interface/buttons/close_button.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Assets/gfx/map/star_classes/a_star.png",
+                "Assets/Assets/gfx/particles/halo_1024.png",
+                "Assets/Assets/gfx/map/star_classes/x_star.png",
+                "Assets/Assets/FZLTZHJW SDF OUTLINE.mat",
+                "Assets/Assets/test/alpine_03_normal.png",
+                "Assets/Assets/gfx/interface/sliders/interface_scrollbar.png",
+                "Assets/Assets/gfx/interface/buttons/button_35_24_dropdown.png",
+                "Assets/Assets/animator/target_arrow_rotate.anim",
+                "Assets/Assets/gfx/interface/icons/ship_classes_medium.png"
+            ]
+        },
+        {
+            "Address": "center",
+            "AssetPath": "Assets/Assets/gfx/map/center.png",
+            "AssetGUID": "f8d7845913659d04bab631a9fabf846e",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "conflicted_border_edge",
+            "AssetPath": "Assets/Assets/gfx/map/conflicted_border_edge.png",
+            "AssetGUID": "0523b889b23968a4ba9255299298fa78",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "conflicted_border_fill",
+            "AssetPath": "Assets/Assets/gfx/map/conflicted_border_fill.png",
+            "AssetGUID": "be963a5eadac1ac4aab53de102d9fc1f",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "dust",
+            "AssetPath": "Assets/Assets/gfx/map/dust.png",
+            "AssetGUID": "1653b74cbf20d934aad157a06521e7f0",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "edge",
+            "AssetPath": "Assets/Assets/gfx/map/edge.png",
+            "AssetGUID": "b9d7e37e79187504ca7494338a0ad61d",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "fallen_empire_border_edge",
+            "AssetPath": "Assets/Assets/gfx/map/fallen_empire_border_edge.png",
+            "AssetGUID": "65c379fde195e764f9d455c7bb4619d4",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "fallen_empire_border_fill",
+            "AssetPath": "Assets/Assets/gfx/map/fallen_empire_border_fill.png",
+            "AssetGUID": "2544f6e9f2fd85642b596397a6be5364",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "galaxycolor",
+            "AssetPath": "Assets/Assets/gfx/map/galaxycolor.png",
+            "AssetGUID": "608b0617074c34a498d5c000b9f4c609",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "hexgrid",
+            "AssetPath": "Assets/Assets/gfx/map/hexgrid.png",
+            "AssetGUID": "1ba7d91008356174a960a4c2ba5d7ec1",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "nebula",
+            "AssetPath": "Assets/Assets/gfx/map/nebula.png",
+            "AssetGUID": "7b1ca492900c2434daa5e147d6182c2f",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "nebulacolor",
+            "AssetPath": "Assets/Assets/gfx/map/nebulacolor.png",
+            "AssetGUID": "48faae92f8769e24a85b17156486ed24",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sky_core",
+            "AssetPath": "Assets/Assets/gfx/map/sky_core.png",
+            "AssetGUID": "403faf77ad84e114da490354e33caeb7",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sky_mid",
+            "AssetPath": "Assets/Assets/gfx/map/sky_mid.png",
+            "AssetGUID": "cad1549584a3dcb4588a5733969cff7c",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sky_rim",
+            "AssetPath": "Assets/Assets/gfx/map/sky_rim.png",
+            "AssetGUID": "8fd85c9249eb7c7418812dc3fc1f32e5",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sky_ycocg",
+            "AssetPath": "Assets/Assets/gfx/map/sky_ycocg.png",
+            "AssetGUID": "87b08e81655b52a4a96ee0d35c13867e",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "trail",
+            "AssetPath": "Assets/Assets/gfx/map/trail.png",
+            "AssetGUID": "53f052e7a6c7e9643a739d21a4f0d263",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "trail_2",
+            "AssetPath": "Assets/Assets/gfx/map/trail_2.png",
+            "AssetGUID": "06355f2b2f3fd1a4fbb2cf9172a73668",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "trail_missile",
+            "AssetPath": "Assets/Assets/gfx/map/trail_missile.png",
+            "AssetGUID": "f701c0c7c6f0a0a4980cd19531b61424",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "MainBundleSize": 15638959,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "a_binary_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/a_binary_star.png",
+            "AssetGUID": "8e78e7538a8bd7041a93d6a3a10b83e6",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "a_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/a_star.png",
+            "AssetGUID": "03d152cb41197d24a8abff3eb05c3f9c",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "a_trinary_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/a_trinary_star.png",
+            "AssetGUID": "33f57a3486cd3334680be8a33005b55a",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "b_binary_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/b_binary_star.png",
+            "AssetGUID": "fe4cc34affa7db54caa44113cade69b0",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "b_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/b_star.png",
+            "AssetGUID": "822370d5fc9833a41bad7f96688d3dd1",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "black_hole",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/black_hole.png",
+            "AssetGUID": "d1b286bf675153e42918f78fa79ea170",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "c_binary_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/c_binary_star.png",
+            "AssetGUID": "e42af2227ee91724bb6a6cc0f8c60dd8",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "d_binary_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/d_binary_star.png",
+            "AssetGUID": "918bec0c9846fa348964ef08f880205e",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "e_binary_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/e_binary_star.png",
+            "AssetGUID": "927240bc8cda5f7408e5f003208de1e7",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "f_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/f_star.png",
+            "AssetGUID": "e6bf094507d1395448c84ff8f299061b",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "g_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/g_star.png",
+            "AssetGUID": "61da12a2c2c0f2f4f9d17ec0520a83cb",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "k_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/k_star.png",
+            "AssetGUID": "7b969bea41ef1604b9c9f439bd61a885",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "m_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/m_star.png",
+            "AssetGUID": "e8e019bab1a716d409f4ae0b9567856b",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "neutron_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/neutron_star.png",
+            "AssetGUID": "599108d1763928e4c850d263441669dc",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "pirate",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/pirate.png",
+            "AssetGUID": "56bcf50ca9f4d4449abeb176b31b9f69",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "pulsar",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/pulsar.png",
+            "AssetGUID": "4110720b07a361842b9fbf2cd7a5ecc4",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "rift_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/rift_star.png",
+            "AssetGUID": "e7990abbf920a1849a617a6ca370850d",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "sc_m_giant",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/sc_m_giant.png",
+            "AssetGUID": "bbfa29c4e1a2dcc4eb71504d49066b93",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "t_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/t_star.png",
+            "AssetGUID": "476bd0385d297db448d53f9492776b02",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "x_star",
+            "AssetPath": "Assets/Assets/gfx/map/star_classes/x_star.png",
+            "AssetGUID": "4c51d3c9ed9a42c408a8ca8730f7edd2",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "MainBundleSize": 115501,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "InfoLine",
+            "AssetPath": "Assets/Assets/prefabs/InfoLine.prefab",
+            "AssetGUID": "b8166888f1d5f6f4e92f59ce36112dc1",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "MainBundleSize": 48806,
+            "DependBundles": [
+                "mainpackage_share_assets_assets.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Assets/FZLTZHJW.TTF"
+            ]
+        },
+        {
+            "Address": "select_icon",
+            "AssetPath": "Assets/Assets/prefabs/select_icon.prefab",
+            "AssetGUID": "ea6203e0e546ded4d9dc863772160d86",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "MainBundleSize": 48806,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/Assets/gfx/particles/hexagon_2.png"
+            ]
+        },
+        {
+            "Address": "StarInfoView",
+            "AssetPath": "Assets/Assets/prefabs/StarInfoView.prefab",
+            "AssetGUID": "6df61cd0e0dd7214f8461086ab20a7fe",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "MainBundleSize": 48806,
+            "DependBundles": [
+                "mainpackage_unityshaders.bundle",
+                "mainpackage_share_assets_assets_gfx_interface_main.bundle",
+                "mainpackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+                "mainpackage_share_assets_assets_gfx_interface_buttons.bundle",
+                "mainpackage_share_assets_assets.bundle",
+                "mainpackage_share_assets_assets_gfx_particles.bundle"
+            ],
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Assets/gfx/interface/main/settings_bar.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Assets/gfx/map/star_classes/a_star.png",
+                "Assets/Assets/gfx/interface/buttons/close_button.png",
+                "Assets/Assets/FZLTZHJW.TTF",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Assets/gfx/particles/halo_1024.png",
+                "Assets/Assets/FZLTZHJW SDF.asset",
+                "Assets/Assets/gfx/interface/main/main_screen_bg.png",
+                "Assets/Assets/gfx/map/star_classes/m_star.png"
+            ]
+        },
+        {
+            "Address": "StarObj",
+            "AssetPath": "Assets/Assets/prefabs/StarObj.prefab",
+            "AssetGUID": "9849a9783c3c21346b2d76cf7ae48d8d",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "MainBundleSize": 48806,
+            "DependBundles": [
+                "mainpackage_share_assets_assets_material.bundle",
+                "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+                "mainpackage_assets_assets_gfx_interface_icons.bundle",
+                "mainpackage_unityshaders.bundle",
+                "mainpackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "mainpackage_share_assets_assets.bundle",
+                "mainpackage_assets_assets_gfx_map_star_classes.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Assets/material/sprite-add.mat",
+                "Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation_ruined.png",
+                "Assets/Assets/gfx/interface/icons/hostile_intel_icon.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Assets/FZLTZHJW.TTF",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Assets/gfx/map/star_classes/x_star.png",
+                "Assets/Assets/FZLTZHJW SDF OUTLINE.mat",
+                "Assets/Assets/FZLTZHJW SDF.asset",
+                "Assets/Assets/test/UIAdditive.shader",
+                "Assets/Assets/gfx/interface/icons/ship_classes_medium.png"
+            ]
+        },
+        {
+            "Address": "target_arrow",
+            "AssetPath": "Assets/Assets/prefabs/target_arrow.prefab",
+            "AssetGUID": "75ff35cd445c07645897fe2d9d0edd0e",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "MainBundleSize": 48806,
+            "DependBundles": [
+                "mainpackage_share_assets_assets_gfx_particles.bundle",
+                "mainpackage_share_assets_assets_animator.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Assets/gfx/particles/target_arrows.png",
+                "Assets/Assets/animator/target_arrow.controller",
+                "Assets/Assets/animator/target_arrow_in.anim",
+                "Assets/Assets/animator/target_arrow_rotate.anim"
+            ]
+        },
+        {
+            "Address": "target_circle",
+            "AssetPath": "Assets/Assets/prefabs/target_circle.prefab",
+            "AssetGUID": "25617b9ee03be314d810ff7f238695c6",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "MainBundleSize": 48806,
+            "DependBundles": [
+                "mainpackage_share_assets_assets_animator.bundle",
+                "mainpackage_unityshaders.bundle",
+                "mainpackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "mainpackage_share_assets_assets_gfx_particles.bundle",
+                "mainpackage_share_assets_assets.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Assets/animator/target_circle_in.anim",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Assets/animator/target_circle.controller",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Assets/gfx/particles/debuff_halo.png",
+                "Assets/Assets/FZLTZHJW.TTF",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Assets/FZLTZHJW SDF.asset",
+                "Assets/Assets/animator/target_circle_rotate.anim"
+            ]
+        },
+        {
+            "Address": "target_special",
+            "AssetPath": "Assets/Assets/prefabs/target_special.prefab",
+            "AssetGUID": "b4d6a196b6bbdf74681f1bb07ff76232",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "MainBundleSize": 48806,
+            "DependBundles": [
+                "mainpackage_share_assets_assets_animator.bundle",
+                "mainpackage_unityshaders.bundle",
+                "mainpackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+                "mainpackage_share_assets_assets.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Assets/animator/target_circle_in.anim",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Assets/gfx/particles/hexagon_2.png",
+                "Assets/Assets/animator/target_circle.controller",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Assets/FZLTZHJW.TTF",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Assets/gfx/particles/hexagon.png",
+                "Assets/Assets/FZLTZHJW SDF.asset",
+                "Assets/Assets/animator/target_circle_rotate.anim"
+            ]
+        },
+        {
+            "Address": "missing",
+            "AssetPath": "Assets/Assets/gfx/common/missing.png",
+            "AssetGUID": "bd695b3b11366854f86f00d5cd9c107b",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_common.bundle",
+            "MainBundleSize": 4841,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "crisis_sphere",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/crisis_sphere.png",
+            "AssetGUID": "7fbbb07ea4dcab14493d785b68216e13",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "crisis_sphere_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/crisis_sphere_ruined.png",
+            "AssetGUID": "61ff75439e81ceb46aca9b23182e3cbc",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "dyson_sphere",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/dyson_sphere.png",
+            "AssetGUID": "3bdfdc2fe2c644743983be4cca615555",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "dyson_sphere_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/dyson_sphere_ruined.png",
+            "AssetGUID": "951f937259b4ddf46b8754ffff4d19ea",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "gateway",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/gateway.png",
+            "AssetGUID": "4226ef297168e7846a0243a79b5e7c56",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "gateway_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/gateway_ruined.png",
+            "AssetGUID": "60a664d40f74350448739bfb8d08a380",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "hyper_relay",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/hyper_relay.png",
+            "AssetGUID": "aada74abd7eec0248ae0e42d732c24bd",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "hyper_relay_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/hyper_relay_ruined.png",
+            "AssetGUID": "c1a5bff5f09d0ad478fe4a3956efb474",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "interstellar_assembly",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/interstellar_assembly.png",
+            "AssetGUID": "cee51a9b9fe186548a0ecd1b1036b6a2",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "interstellar_assembly_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/interstellar_assembly_ruined.png",
+            "AssetGUID": "7233c8661613c0d45b663eb1caaaa3cd",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "matter_decompressor",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/matter_decompressor.png",
+            "AssetGUID": "b1493b86f3bf56441ba558907205b0f7",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "matter_decompressor_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/matter_decompressor_ruined.png",
+            "AssetGUID": "0b2a3b3f520090b4d883524b775accd1",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mega_art_installation",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation.png",
+            "AssetGUID": "ce37e7683e0ccdd468f28b976b3f21f5",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mega_art_installation_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation_ruined.png",
+            "AssetGUID": "e53f6c1d6fbe6e04796c121ea35c7dfd",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mega_shipyard",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/mega_shipyard.png",
+            "AssetGUID": "0f26dd0ec4477584d85427d87ec4cdf7",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "mega_shipyard_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/mega_shipyard_ruined.png",
+            "AssetGUID": "a821b5506141cdb448a3ad379d3b8744",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "orbital_ring",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/orbital_ring.png",
+            "AssetGUID": "e9954f157acc8fa4e98bd2fbeda0816d",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "orbital_ring_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/orbital_ring_ruined.png",
+            "AssetGUID": "717e5374ffba36a49b76966ebe557f4a",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "quantum_catapult",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/quantum_catapult.png",
+            "AssetGUID": "130c07509316d8e4daac4d41090f1a77",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "quantum_catapult_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/quantum_catapult_ruined.png",
+            "AssetGUID": "cbde45cbcd4022a46bacc79c7d6a1c3c",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "ring_world",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/ring_world.png",
+            "AssetGUID": "2378195abf3e39344837357f13a830e7",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "ring_world_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/ring_world_ruined.png",
+            "AssetGUID": "3e94ad3317c328943bf1c194b9216d04",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "spy_orb",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/spy_orb.png",
+            "AssetGUID": "bae38c1670fa80448a69e5e299371129",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "spy_orb_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/spy_orb_ruined.png",
+            "AssetGUID": "fda1747d3905af6478e758a7de123923",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "strategic_coordination_center",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/strategic_coordination_center.png",
+            "AssetGUID": "205d92666aa43914295cbcf587bb894c",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "strategic_coordination_center_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/strategic_coordination_center_ruined.png",
+            "AssetGUID": "ac3096ba183a8e24d889f900f0e9b0e7",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "think_tank",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/think_tank.png",
+            "AssetGUID": "b22f341d78f8d0e4a896a1ba33092373",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "think_tank_ruined",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/megastructures/think_tank_ruined.png",
+            "AssetGUID": "d87d1afbae4e3e74d910026642ce7c10",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "MainBundleSize": 29096,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "colonizability_icons",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/colonizability_icons.png",
+            "AssetGUID": "33bf7c1f7a2532549a3799a32d9301e9",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons.bundle",
+            "MainBundleSize": 179618,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "hostile_intel_icon",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/hostile_intel_icon.png",
+            "AssetGUID": "32a70c274753ae743ad95cb482335eab",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons.bundle",
+            "MainBundleSize": 179618,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "ship_classes_medium",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/ship_classes_medium.png",
+            "AssetGUID": "24abe8a5119f367429db6ef1060ff29e",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons.bundle",
+            "MainBundleSize": 179618,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "planet_type_icons",
+            "AssetPath": "Assets/Assets/gfx/interface/icons/planet_type_icons.png",
+            "AssetGUID": "34a546b63054e7746a80bc510907b166",
+            "AssetTags": [],
+            "MainBundleName": "mainpackage_assets_assets_gfx_interface_icons.bundle",
+            "MainBundleSize": 179618,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "mainpackage_assets_scenes_main.bundle",
+            "FileName": "00881d385c5482f630a8304353e8883f.bundle",
+            "FileHash": "00881d385c5482f630a8304353e8883f",
+            "FileCRC": "cac06ccb",
+            "FileSize": 880792,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/main.unity",
+                "Assets/Plugins/Reporter/Images/scroller_horizental_thumb.png",
+                "Assets/Plugins/Reporter/Images/scroller_vertical_thumb.png",
+                "Assets/Plugins/Reporter/Images/collapse.png",
+                "Assets/Plugins/Reporter/Images/log_icon.png",
+                "Assets/Plugins/Reporter/Images/scroller_horizental_back.png",
+                "Assets/Plugins/Reporter/Images/date.png",
+                "Assets/Plugins/Reporter/Images/error_icon.png",
+                "Assets/Plugins/Reporter/Images/reporterScrollerSkin.guiskin",
+                "Assets/Plugins/Reporter/Images/software.png",
+                "Assets/Plugins/Reporter/Images/fps.png",
+                "Assets/Assets/gfx/interface/progressbars/progressbar_933.png",
+                "Assets/Plugins/Reporter/Images/even_log.png",
+                "Assets/Plugins/Reporter/Images/clear.png",
+                "Assets/Plugins/Reporter/Images/scroller_down_arraw.png",
+                "Assets/Plugins/Reporter/Images/scroller_right_arraw.png",
+                "Assets/Plugins/Reporter/Images/memory.png",
+                "Assets/Plugins/Reporter/Images/search.png",
+                "Assets/Assets/gfx/interface/progressbars/progressbar_933_empty.png",
+                "Assets/Plugins/Reporter/Images/timer_1.png",
+                "Assets/Plugins/Reporter/Images/selected.png",
+                "Assets/Plugins/Reporter/Images/back.png",
+                "Assets/Plugins/Reporter/Images/button_active.png",
+                "Assets/Plugins/Reporter/Images/bar.png",
+                "Assets/Resources/stellaris_into_the_unknown_3840x2160.jpg",
+                "Assets/Plugins/Reporter/Images/buildFrom.png",
+                "Assets/Plugins/Reporter/Images/scroller_left_arraw.png",
+                "Assets/Plugins/Reporter/Images/clearOnSceneLoaded.png",
+                "Assets/Assets/gfx/interface/buttons/button_110_animated.png",
+                "Assets/Plugins/Reporter/Images/scroller_vertical_back.png",
+                "Assets/Plugins/Reporter/Images/chart.png",
+                "Assets/Plugins/Reporter/Images/info.png",
+                "Assets/Plugins/Reporter/Images/graphicCard.png",
+                "Assets/Plugins/Reporter/Images/ComputerIcon.png",
+                "Assets/Plugins/Reporter/Images/odd_log.png",
+                "Assets/Plugins/Reporter/Images/UnityIcon.png",
+                "Assets/Plugins/Reporter/Images/scroller_up_arraw.png",
+                "Assets/Plugins/Reporter/Images/warning_icon.png",
+                "Assets/Plugins/Reporter/Images/user.png",
+                "Assets/Plugins/Reporter/Images/close.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_assets_scenes_map.bundle",
+            "FileName": "134edea364f0a622e7a4de7399ddcd5b.bundle",
+            "FileHash": "134edea364f0a622e7a4de7399ddcd5b",
+            "FileCRC": "1269b475",
+            "FileSize": 9335281,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/map.unity",
+                "Assets/Assets/gfx/interface/sliders/ncp_scroll_slider.png",
+                "Assets/Assets/animator/right_panel_in.anim",
+                "Assets/Assets/gfx/interface/sliders/horizontal_slider.png",
+                "Assets/Assets/animator/right_panel.controller",
+                "Assets/Assets/test/cloud.mat",
+                "Assets/Assets/test/clouds_medium_diffuse.png",
+                "Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png",
+                "Assets/Assets/test/alpine_03_specular.png",
+                "Assets/Assets/test/clouds_medium_normal.png",
+                "Assets/Assets/test/alpine_03_diffuse.png",
+                "Assets/Assets/material/hyperlane.mat",
+                "Assets/Assets/test/planet.mat",
+                "Assets/Assets/animator/right_panel_out.anim",
+                "Assets/Assets/gfx/interface/sliders/ncp_scroll_slider_horizontal.png",
+                "Assets/Assets/test/alpine_03_normal.png",
+                "Assets/Assets/gfx/interface/sliders/interface_scrollbar.png",
+                "Assets/Assets/gfx/interface/buttons/button_35_24_dropdown.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_assets_assets_gfx_map.bundle",
+            "FileName": "ba545f4858a51e4324947065114732a7.bundle",
+            "FileHash": "ba545f4858a51e4324947065114732a7",
+            "FileCRC": "839fa6fa",
+            "FileSize": 15638959,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                1
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/map/center.png",
+                "Assets/Assets/gfx/map/conflicted_border_edge.png",
+                "Assets/Assets/gfx/map/conflicted_border_fill.png",
+                "Assets/Assets/gfx/map/dust.png",
+                "Assets/Assets/gfx/map/edge.png",
+                "Assets/Assets/gfx/map/fallen_empire_border_edge.png",
+                "Assets/Assets/gfx/map/fallen_empire_border_fill.png",
+                "Assets/Assets/gfx/map/galaxycolor.png",
+                "Assets/Assets/gfx/map/hexgrid.png",
+                "Assets/Assets/gfx/map/nebula.png",
+                "Assets/Assets/gfx/map/nebulacolor.png",
+                "Assets/Assets/gfx/map/sky_core.png",
+                "Assets/Assets/gfx/map/sky_mid.png",
+                "Assets/Assets/gfx/map/sky_rim.png",
+                "Assets/Assets/gfx/map/sky_ycocg.png",
+                "Assets/Assets/gfx/map/trail.png",
+                "Assets/Assets/gfx/map/trail_2.png",
+                "Assets/Assets/gfx/map/trail_missile.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_assets_assets_gfx_map_star_classes.bundle",
+            "FileName": "f476d0ac4e63722b50aa97603bd34528.bundle",
+            "FileHash": "f476d0ac4e63722b50aa97603bd34528",
+            "FileCRC": "821a8bdb",
+            "FileSize": 115501,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                1,
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/map/star_classes/a_binary_star.png",
+                "Assets/Assets/gfx/map/star_classes/a_star.png",
+                "Assets/Assets/gfx/map/star_classes/a_trinary_star.png",
+                "Assets/Assets/gfx/map/star_classes/b_binary_star.png",
+                "Assets/Assets/gfx/map/star_classes/b_star.png",
+                "Assets/Assets/gfx/map/star_classes/black_hole.png",
+                "Assets/Assets/gfx/map/star_classes/c_binary_star.png",
+                "Assets/Assets/gfx/map/star_classes/d_binary_star.png",
+                "Assets/Assets/gfx/map/star_classes/e_binary_star.png",
+                "Assets/Assets/gfx/map/star_classes/f_star.png",
+                "Assets/Assets/gfx/map/star_classes/g_star.png",
+                "Assets/Assets/gfx/map/star_classes/k_star.png",
+                "Assets/Assets/gfx/map/star_classes/m_star.png",
+                "Assets/Assets/gfx/map/star_classes/neutron_star.png",
+                "Assets/Assets/gfx/map/star_classes/pirate.png",
+                "Assets/Assets/gfx/map/star_classes/pulsar.png",
+                "Assets/Assets/gfx/map/star_classes/rift_star.png",
+                "Assets/Assets/gfx/map/star_classes/sc_m_giant.png",
+                "Assets/Assets/gfx/map/star_classes/t_star.png",
+                "Assets/Assets/gfx/map/star_classes/x_star.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_assets_assets_prefabs.bundle",
+            "FileName": "bc36e35771ba711587204fbcf149fe2a.bundle",
+            "FileHash": "bc36e35771ba711587204fbcf149fe2a",
+            "FileCRC": "ccf7ff22",
+            "FileSize": 48806,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                1
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/prefabs/InfoLine.prefab",
+                "Assets/Assets/prefabs/select_icon.prefab",
+                "Assets/Assets/prefabs/StarInfoView.prefab",
+                "Assets/Assets/prefabs/StarObj.prefab",
+                "Assets/Assets/prefabs/target_arrow.prefab",
+                "Assets/Assets/prefabs/target_circle.prefab",
+                "Assets/Assets/prefabs/target_special.prefab",
+                "Assets/Assets/gfx/particles/hexagon_2.png",
+                "Assets/Assets/gfx/particles/hexagon.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_assets_assets_gfx_common.bundle",
+            "FileName": "67eac043ab343aaefcf90d6c48be68d4.bundle",
+            "FileHash": "67eac043ab343aaefcf90d6c48be68d4",
+            "FileCRC": "3bed2477",
+            "FileSize": 4841,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/common/missing.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle",
+            "FileName": "d9434e2c4dc32a8596000cf3bef52052.bundle",
+            "FileHash": "d9434e2c4dc32a8596000cf3bef52052",
+            "FileCRC": "47ed6d55",
+            "FileSize": 29096,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/interface/icons/megastructures/crisis_sphere.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/crisis_sphere_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/dyson_sphere.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/dyson_sphere_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/gateway.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/gateway_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/hyper_relay.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/hyper_relay_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/interstellar_assembly.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/interstellar_assembly_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/matter_decompressor.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/matter_decompressor_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/mega_shipyard.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/mega_shipyard_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/orbital_ring.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/orbital_ring_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/quantum_catapult.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/quantum_catapult_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/ring_world.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/ring_world_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/spy_orb.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/spy_orb_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/strategic_coordination_center.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/strategic_coordination_center_ruined.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/think_tank.png",
+                "Assets/Assets/gfx/interface/icons/megastructures/think_tank_ruined.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_assets_assets_gfx_interface_icons.bundle",
+            "FileName": "166384f7f396dc1907effa753734a318.bundle",
+            "FileHash": "166384f7f396dc1907effa753734a318",
+            "FileCRC": "55c41e3b",
+            "FileSize": 179618,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/interface/icons/colonizability_icons.png",
+                "Assets/Assets/gfx/interface/icons/hostile_intel_icon.png",
+                "Assets/Assets/gfx/interface/icons/ship_classes_medium.png",
+                "Assets/Assets/gfx/interface/icons/planet_type_icons.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_assets_assets_gfx_worldgfx.bundle",
+            "FileName": "053340fd8f8a61a3ab0df0af2d3d0443.bundle",
+            "FileHash": "053340fd8f8a61a3ab0df0af2d3d0443",
+            "FileCRC": "0c227b67",
+            "FileSize": 476800,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                9
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/worldgfx/stars.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_assets_assets_material.bundle",
+            "FileName": "dbddbe698167e53c7febfb8650652e7c.bundle",
+            "FileHash": "dbddbe698167e53c7febfb8650652e7c",
+            "FileCRC": "247a2e23",
+            "FileSize": 19415,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0,
+                1,
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/material/star-skybox.mat",
+                "Assets/Assets/material/sprite-add.mat"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_assets_assets.bundle",
+            "FileName": "9358dac68a431f7c5726bda4f383f998.bundle",
+            "FileHash": "9358dac68a431f7c5726bda4f383f998",
+            "FileCRC": "9bc2730f",
+            "FileSize": 9815953,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0,
+                1,
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/FZLTZHJW.TTF",
+                "Assets/Assets/FZLTZHJW SDF.asset",
+                "Assets/Assets/FZLTZHJW SDF OUTLINE.mat"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_unityshaders.bundle",
+            "FileName": "277a5165239e6e06708275dbb5948d58.bundle",
+            "FileHash": "277a5165239e6e06708275dbb5948d58",
+            "FileCRC": "aebbe59d",
+            "FileSize": 24970,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                1,
+                9,
+                10
+            ],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Assets/test/UIAdditive.shader"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_assets_assets_gfx_particles.bundle",
+            "FileName": "056ad42ef315b6b4ef3ebce1f663e84c.bundle",
+            "FileHash": "056ad42ef315b6b4ef3ebce1f663e84c",
+            "FileCRC": "481ff4e7",
+            "FileSize": 135935,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/particles/target_arrows.png",
+                "Assets/Assets/gfx/particles/debuff_halo.png",
+                "Assets/Assets/gfx/particles/halo_1024.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_assets_assets_animator.bundle",
+            "FileName": "22c7115ba7a180fc1eb14e1d4e3a03c8.bundle",
+            "FileHash": "22c7115ba7a180fc1eb14e1d4e3a03c8",
+            "FileCRC": "cf5525b6",
+            "FileSize": 9968,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/animator/target_circle.controller",
+                "Assets/Assets/animator/target_arrow_in.anim",
+                "Assets/Assets/animator/target_circle_rotate.anim",
+                "Assets/Assets/animator/target_circle_in.anim",
+                "Assets/Assets/animator/target_arrow.controller",
+                "Assets/Assets/animator/target_arrow_rotate.anim"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_assets_assets_gfx_interface_main.bundle",
+            "FileName": "0d179d8be0d957cbf2e7ea82956cb427.bundle",
+            "FileHash": "0d179d8be0d957cbf2e7ea82956cb427",
+            "FileCRC": "a29a6f10",
+            "FileSize": 49205,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                1,
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/interface/main/settings_bar.png",
+                "Assets/Assets/gfx/interface/main/main_screen_bg.png"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+            "FileName": "6f8c1a33a9a1453a8cbd6e93f3b8076a.bundle",
+            "FileHash": "6f8c1a33a9a1453a8cbd6e93f3b8076a",
+            "FileCRC": "4578dc58",
+            "FileSize": 5663,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd"
+            ]
+        },
+        {
+            "BundleName": "mainpackage_share_assets_assets_gfx_interface_buttons.bundle",
+            "FileName": "1b47b3d77e5f37f1c392fc4ff2688fa8.bundle",
+            "FileHash": "1b47b3d77e5f37f1c392fc4ff2688fa8",
+            "FileCRC": "177b9088",
+            "FileSize": 13656,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                1,
+                4
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Assets/gfx/interface/buttons/close_button.png"
+            ]
+        }
+    ],
+    "RedundancyInfos": []
+}

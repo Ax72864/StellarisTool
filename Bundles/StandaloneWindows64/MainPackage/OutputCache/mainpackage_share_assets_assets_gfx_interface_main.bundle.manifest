@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1980713507
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75c6eb369ac4a127a5f38a8a893f6970
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/gfx/interface/main/settings_bar.png
+- Assets/Assets/gfx/interface/main/main_screen_bg.png
+Dependencies: []

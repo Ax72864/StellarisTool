@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 2550052224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b24c949fe6fc8e79e7c3bf755d98a54d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71132c64e31130f95bcbd841b5f12944
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 572ea305657bcb04a9d781e2a68bda0b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Assets/prefabs/target_circle.prefab
+- Assets/Assets/prefabs/target_arrow.prefab
+- Assets/Assets/prefabs/StarObj.prefab
+- Assets/Assets/prefabs/target_special.prefab
+- Assets/Assets/prefabs/select_icon.prefab
+- Assets/Assets/prefabs/InfoLine.prefab
+- Assets/Assets/prefabs/StarInfoView.prefab
+Dependencies:
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_assets_assets_gfx_interface_icons.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_assets_assets_gfx_map_star_classes.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_share_assets_assets.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_share_assets_assets_animator.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_share_assets_assets_gfx_interface_buttons.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_share_assets_assets_gfx_interface_main.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_share_assets_assets_gfx_particles.bundle
+- C:/work/StellarisTool/Bundles/StandaloneWindows64/MainPackage/OutputCache/mainpackage_share_assets_assets_material.bundle

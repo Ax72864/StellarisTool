@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 4057268852
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mainpackage_assets_scenes_main.bundle
+      Dependencies:
+        Dependency_0: mainpackage_share_assets_assets_material.bundle
+        Dependency_1: mainpackage_share_assets_assets.bundle
+    Info_1:
+      Name: mainpackage_assets_scenes_map.bundle
+      Dependencies:
+        Dependency_0: mainpackage_assets_assets_gfx_map.bundle
+        Dependency_1: mainpackage_assets_assets_gfx_map_star_classes.bundle
+        Dependency_2: mainpackage_assets_assets_prefabs.bundle
+        Dependency_3: mainpackage_share_assets_assets_material.bundle
+        Dependency_4: mainpackage_share_assets_assets.bundle
+        Dependency_5: mainpackage_unityshaders.bundle
+        Dependency_6: mainpackage_share_assets_assets_gfx_interface_main.bundle
+        Dependency_7: mainpackage_share_assets_assets_gfx_interface_buttons.bundle
+    Info_2:
+      Name: mainpackage_assets_assets_gfx_map.bundle
+      Dependencies: {}
+    Info_3:
+      Name: mainpackage_assets_assets_gfx_map_star_classes.bundle
+      Dependencies: {}
+    Info_4:
+      Name: mainpackage_assets_assets_prefabs.bundle
+      Dependencies:
+        Dependency_0: mainpackage_assets_assets_gfx_map_star_classes.bundle
+        Dependency_1: mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle
+        Dependency_2: mainpackage_assets_assets_gfx_interface_icons.bundle
+        Dependency_3: mainpackage_share_assets_assets_material.bundle
+        Dependency_4: mainpackage_share_assets_assets.bundle
+        Dependency_5: mainpackage_share_assets_assets_gfx_particles.bundle
+        Dependency_6: mainpackage_share_assets_assets_animator.bundle
+        Dependency_7: mainpackage_share_assets_assets_gfx_interface_main.bundle
+        Dependency_8: mainpackage_share_assets_assets_gfx_interface_buttons.bundle
+    Info_5:
+      Name: mainpackage_assets_assets_gfx_common.bundle
+      Dependencies: {}
+    Info_6:
+      Name: mainpackage_assets_assets_gfx_interface_icons_megastructures.bundle
+      Dependencies: {}
+    Info_7:
+      Name: mainpackage_assets_assets_gfx_interface_icons.bundle
+      Dependencies: {}
+    Info_8:
+      Name: mainpackage_share_assets_assets_gfx_worldgfx.bundle
+      Dependencies: {}
+    Info_9:
+      Name: mainpackage_share_assets_assets_material.bundle
+      Dependencies:
+        Dependency_0: mainpackage_share_assets_assets_gfx_worldgfx.bundle
+        Dependency_1: mainpackage_unityshaders.bundle
+    Info_10:
+      Name: mainpackage_share_assets_assets.bundle
+      Dependencies:
+        Dependency_0: mainpackage_unityshaders.bundle
+    Info_11:
+      Name: mainpackage_unityshaders.bundle
+      Dependencies: {}
+    Info_12:
+      Name: mainpackage_share_assets_assets_gfx_particles.bundle
+      Dependencies: {}
+    Info_13:
+      Name: mainpackage_share_assets_assets_animator.bundle
+      Dependencies: {}
+    Info_14:
+      Name: mainpackage_share_assets_assets_gfx_interface_main.bundle
+      Dependencies: {}
+    Info_15:
+      Name: mainpackage_share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle
+      Dependencies: {}
+    Info_16:
+      Name: mainpackage_share_assets_assets_gfx_interface_buttons.bundle
+      Dependencies: {}

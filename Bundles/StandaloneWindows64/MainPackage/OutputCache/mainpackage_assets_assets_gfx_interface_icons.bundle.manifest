@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 945666811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd6c1955dc35cedb489b9efb0f516d54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/gfx/interface/icons/colonizability_icons.png
+- Assets/Assets/gfx/interface/icons/hostile_intel_icon.png
+- Assets/Assets/gfx/interface/icons/planet_type_icons.png
+- Assets/Assets/gfx/interface/icons/ship_classes_medium.png
+Dependencies: []

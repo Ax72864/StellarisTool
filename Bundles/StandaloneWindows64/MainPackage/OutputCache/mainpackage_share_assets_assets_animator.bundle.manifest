@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4136857257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b998dd66b555ec97fb2a3fc0887224a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/animator/target_circle_in.anim
+- Assets/Assets/animator/target_circle.controller
+- Assets/Assets/animator/target_arrow.controller
+- Assets/Assets/animator/target_arrow_in.anim
+- Assets/Assets/animator/target_arrow_rotate.anim
+- Assets/Assets/animator/target_circle_rotate.anim
+Dependencies: []

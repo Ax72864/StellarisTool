@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1778134378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: debfc915a72b93b2d40e71a2468e9d2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/think_tank.png
+- Assets/Assets/gfx/interface/icons/megastructures/hyper_relay.png
+- Assets/Assets/gfx/interface/icons/megastructures/hyper_relay_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/crisis_sphere_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/matter_decompressor_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/interstellar_assembly.png
+- Assets/Assets/gfx/interface/icons/megastructures/strategic_coordination_center.png
+- Assets/Assets/gfx/interface/icons/megastructures/mega_shipyard_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/orbital_ring_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/ring_world_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/mega_shipyard.png
+- Assets/Assets/gfx/interface/icons/megastructures/dyson_sphere_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/mega_art_installation.png
+- Assets/Assets/gfx/interface/icons/megastructures/spy_orb_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/orbital_ring.png
+- Assets/Assets/gfx/interface/icons/megastructures/think_tank_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/gateway_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/gateway.png
+- Assets/Assets/gfx/interface/icons/megastructures/quantum_catapult.png
+- Assets/Assets/gfx/interface/icons/megastructures/spy_orb.png
+- Assets/Assets/gfx/interface/icons/megastructures/matter_decompressor.png
+- Assets/Assets/gfx/interface/icons/megastructures/dyson_sphere.png
+- Assets/Assets/gfx/interface/icons/megastructures/interstellar_assembly_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/quantum_catapult_ruined.png
+- Assets/Assets/gfx/interface/icons/megastructures/crisis_sphere.png
+- Assets/Assets/gfx/interface/icons/megastructures/ring_world.png
+- Assets/Assets/gfx/interface/icons/megastructures/strategic_coordination_center_ruined.png
+Dependencies: []

@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185f6993d5150494d98da50e26cb1c25, type: 3}
+  m_Name: AssetBundleCollectorSetting
+  m_EditorClassIdentifier: 
+  ShowPackageView: 0
+  EnableAddressable: 1
+  LocationToLower: 0
+  IncludeAssetGUID: 0
+  UniqueBundleName: 1
+  ShowEditorAlias: 0
+  Packages:
+  - PackageName: MainPackage
+    PackageDesc: main package
+    Groups:
+    - GroupName: scene
+      GroupDesc: "\u573A\u666F"
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Scenes
+        CollectorGUID: 323f57b368a155c42abe01fca3500db5
+        CollectorType: 0
+        AddressRuleName: AddressByGroupAndFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectScene
+        AssetTags: 
+        UserData: 
+    - GroupName: ui
+      GroupDesc: UI
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors: []
+    - GroupName: rawasset
+      GroupDesc: "\u539F\u59CB\u8D44\u6E90"
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Assets/gfx/map
+        CollectorGUID: 580b7c4c36b50f14ab1d813c1816e13d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectSprite
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Assets/prefabs
+        CollectorGUID: 516a452f17eed0e4186971e03e9b6385
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectPrefab
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Assets/gfx/common
+        CollectorGUID: ac3d5a56fed682945aac6972af1708f5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectSprite
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Assets/gfx/interface/icons/megastructures
+        CollectorGUID: 848b402717ccae046afe2e15ab6e05f8
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Assets/gfx/interface/icons/colonizability_icons.png
+        CollectorGUID: 33bf7c1f7a2532549a3799a32d9301e9
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Assets/gfx/interface/icons/hostile_intel_icon.png
+        CollectorGUID: 32a70c274753ae743ad95cb482335eab
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Assets/gfx/interface/icons/ship_classes_medium.png
+        CollectorGUID: 24abe8a5119f367429db6ef1060ff29e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+      - CollectPath: Assets/Assets/gfx/interface/icons/planet_type_icons.png
+        CollectorGUID: 34a546b63054e7746a80bc510907b166
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
+    - GroupName: subsprites
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors: []
